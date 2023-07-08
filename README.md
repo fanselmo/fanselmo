@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End topics and projects
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on anything that gives me the chance to learn more
-- 📫 Reach me at Twitter | @devbrewerbr I'm Fabulous
+- 📫 Reach me at Twitter | @codigonaestrada I'm Fabulous
 
 <!---
 fanselmo/fanselmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
